@@ -1,0 +1,12 @@
+{
+  "name": "virtual-svelte-onchange-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node reproduce.mjs"
+  },
+  "dependencies": {
+    "@tanstack/svelte-virtual": "3.13.49",
+    "svelte": "4.2.20"
+  }
+}
